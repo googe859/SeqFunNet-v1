@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+build/
+dist/
+*.egg-info/
+
+# PyTorch
+*.pth
+*.pt
+
+# Results
+results/
+*.log
+*.png
+
+# Data
+*.npy
+dataset_npy/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
